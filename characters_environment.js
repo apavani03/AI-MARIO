@@ -59,7 +59,7 @@ nose_Y = "";
 game_status = "";
 // function after clicking the Start button to play the game
 function play_game(){
-game_status = "Start";
+game_status = "start";
 document.getElementById("status").innerHTML = "Game is Loading";
 
 }
